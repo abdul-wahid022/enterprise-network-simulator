@@ -1,6 +1,6 @@
 # 🌐 Cloud TAP: Enterprise Network Simulation System
 <p align="center">
-  <img src="images/cloudtap.png" alt="Cloud Tap Logo" width="700">
+  <img src="images/cloudtap.png" alt="Cloud Tap Logo" width="500">
 </p>
 <div align="center">
 
