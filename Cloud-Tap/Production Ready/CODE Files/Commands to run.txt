@@ -1,0 +1,5 @@
+g++ cloud.cpp -o cloud -std=c++11 -lpthread
+./cloud
+
+use separate Terminal to Perform Live 
+python3 -m http.server 8000

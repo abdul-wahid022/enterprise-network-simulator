@@ -1,0 +1,27 @@
+{
+  "totalDevices": 48,
+  "onlineDevices": 0,
+  "offlineDevices": 48,
+  "connections": 75,
+  "dhcpPools": [
+    {"name":"Finance Pool","used":3,"total":81},
+    {"name":"HR Pool","used":3,"total":81},
+    {"name":"IT Pool","used":4,"total":81},
+    {"name":"Management Pool","used":4,"total":81},
+    {"name":"Sales Pool","used":3,"total":81},
+    {"name":"Voice Pool","used":6,"total":41},
+    {"name":"Wireless Pool","used":16,"total":81}
+  ],
+  "services": {
+    "dhcp":"offline",
+    "email":10,
+    "syslog":61
+  },
+  "syslog": [
+    {"time":"2026-01-01 23:57:57","severity":"WARN","device":"WLC-1","message":"Lost network path | Status: 🔴 UNREACHABLE"},
+    {"time":"2026-01-01 23:57:57","severity":"WARN","device":"VOICE-R1","message":"Lost network path | Status: 🔴 UNREACHABLE"},
+    {"time":"2026-01-01 23:57:57","severity":"WARN","device":"SALES-TAB1","message":"Lost network path | Status: 🔴 WIRELESS_DOWN"},
+    {"time":"2026-01-01 23:57:57","severity":"WARN","device":"SALES-SW1","message":"Lost network path | Status: 🔴 UNREACHABLE"},
+    {"time":"2026-01-01 23:57:57","severity":"WARN","device":"SALES-PHN1","message":"Lost network path | Status: 🔴 WIRELESS_DOWN"}
+  ]
+}
