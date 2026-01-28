@@ -1,6 +1,6 @@
 # 🌐 Cloud TAP: Enterprise Network Simulation System
 <p align="center">
-  <img src="images/cloudtap.png" alt="Cloud Tap Logo" width="500">
+  <img src="images/cloudtap.png" alt="Cloud Tap Logo" width="450">
 </p>
 <div align="center">
 
@@ -263,23 +263,28 @@ Special thanks to:
 
 ---
 
-## 📞 Questions or Feedback?
 
-Found this project helpful? Have questions or suggestions?
+## 📞 Connect With Me
 
-- ⭐ **Star this repository** if you found it useful
-- 🐛 **Open an issue** for bugs or feature requests
-- 💡 **Fork and contribute** to make it better
-- 📧 **Reach out** via GitHub discussions
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-a.wahid7860668%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:a.wahid7860668@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Wahid-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-wahid022)
+[![GitHub](https://img.shields.io/badge/GitHub-abdul--wahid022-black?style=for-the-badge&logo=github)](https://github.com/abdul-wahid022)
+
+</div>
+
+---
+
+## 📄 License
+
+This project is created for **educational purposes** and is open-source.
 
 ---
 
 <div align="center">
 
-### **Built with ❤️ to demonstrate that algorithms aren't just theory—they're solutions**
-
-**Cloud TAP**: Where data structures meet real-world networks
-
-[⬆ Back to Top](#-cloud-tap-enterprise-network-simulation-system)
+### ⭐ If you found this helpful, please give it a star!
+*Last Updated: January 2026*
 
 </div>
